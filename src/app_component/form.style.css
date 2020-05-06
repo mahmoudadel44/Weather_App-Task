@@ -1,0 +1,82 @@
+.city {
+  padding-top: 25px;
+}
+.city-weather a {
+  color: white;
+}
+.city-weather .city h3 {
+  margin-top: 50px;
+}
+
+.city-weather .city .spell {
+  color: #878787;
+}
+
+form .city .input-find {
+  margin-bottom: 20px;
+}
+form .city input[name="city"] {
+  background-color: #e7effd;
+  border: 2px solid black;
+  border-radius: 4px;
+  color: black;
+  padding: 20px 5px;
+}
+
+form .city .form-control {
+  display: inline;
+  width: 600px;
+}
+form .city button {
+  border-radius: 0;
+  background-color: #339af0;
+  border: none;
+  padding: 7px;
+  width: 200px;
+}
+.main-color {
+  color: #fff;
+}
+/*-------------------------*/
+.vertical-text {
+  transform: rotate(90deg);
+  color: #fff;
+  font-size: 15px;
+}
+.home-text {
+  margin-top: 50px;
+  margin-left: 60px;
+}
+.weather-text {
+  margin-left: 60px;
+  margin-top: 50px;
+}
+.city-weather a:hover {
+  text-decoration: none;
+}
+
+.weather-right{
+    padding-top: 50px;
+    margin-top: 70px;
+    float: left;
+  }
+  .weather-right .weath{
+    display: inline;
+  }
+  
+.weather-right .small-circle{
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #FFFF00;
+  margin-left: 108px;
+}
+
+  .weather-right .circle{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #FFFF00;
+  display: inline-block;
+  margin-left: 5px;
+}
